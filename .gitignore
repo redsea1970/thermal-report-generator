@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.npy
+sample_thermal.png
+thermal_mask.png
+thermal_annotated.png
+thermal_report.png
+report.json
